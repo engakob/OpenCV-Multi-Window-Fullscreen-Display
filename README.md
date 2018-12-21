@@ -5,7 +5,7 @@ Calling the <code>cv2.imshow(_ , _)</code> function multiple times displays the 
 1) Replace <code>cv2.imshow('image',img)</code> by <code>Display3x3('image',img,1)</code>. That's it! No additional code is required.
 2) The original video will be automatically scaled to fit on your screen while preserving the aspect ratio.
 
-<code>This is a code block.</code>
+![image text](https://github.com/engakob/OpenCV-Multi-Window-Fullscreen-Display/blob/master/Media/Pic1.jpg)
 
 ### Requirements
 Python 2 or 3\
@@ -13,10 +13,7 @@ Python 2 or 3\
 `cv2`\
 `tkinter`
 
-
-
-
 ### How to start
-Run Snake_RL.py to start the game and watch the snake learning.
-<!-- ![image text](https://github.com/akob125/AI-Q-Reinforcement-Learning-Snake/blob/master/Media/Plot.jpg) -->
-<!-- ![image text](https://github.com/akob125/AI-Q-Reinforcement-Learning-Snake/blob/master/Media/GIF.gif) -->
+1) Make sure that you have the A3x3.py file in your working directory
+2) Add <code>from A3x3 import *</code>
+3) Type <code>Display3x3("image",img,2)</code>, number "2" indicates the window position where you want the window to be.
