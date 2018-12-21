@@ -17,3 +17,5 @@ Python 2 or 3\
 1) Make sure that you have the A3x3.py file in your working directory
 2) Add <code>from A3x3 import *</code>
 3) Type <code>Display3x3("image",img,2)</code>, number "2" indicates the window position where you want the window to be.
+
+Check A3x3.py for more info about window positions.
