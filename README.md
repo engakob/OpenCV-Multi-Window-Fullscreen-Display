@@ -7,6 +7,8 @@ Calling the <code>cv2.imshow(_ , _)</code> function multiple times displays the 
 
 ![image text](https://github.com/engakob/OpenCV-Multi-Window-Fullscreen-Display/blob/master/Media/Pic1.jpg)
 
+
+Low-res Video Sample:
 ![image text](https://github.com/engakob/OpenCV-Multi-Window-Fullscreen-Display/blob/master/Media/gif.gif)
 
 ### Requirements
