@@ -18,5 +18,5 @@ Python 2 or 3\
 
 ### How to start
 Run Snake_RL.py to start the game and watch the snake learning.
-![image text](https://github.com/akob125/AI-Q-Reinforcement-Learning-Snake/blob/master/Media/Plot.jpg)
-![image text](https://github.com/akob125/AI-Q-Reinforcement-Learning-Snake/blob/master/Media/GIF.gif)
+<!-- ![image text](https://github.com/akob125/AI-Q-Reinforcement-Learning-Snake/blob/master/Media/Plot.jpg) -->
+<!-- ![image text](https://github.com/akob125/AI-Q-Reinforcement-Learning-Snake/blob/master/Media/GIF.gif) -->
